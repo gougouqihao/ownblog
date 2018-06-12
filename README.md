@@ -76,7 +76,7 @@
 ### react
 - 2017-07-24 **»** [react开发注意事项](https://github.com/miyuying/ownblog/blob/master/react/attention.md)
 
-- 2017-07-28 **»** [redux源码分析与设计思路剖析](https://github.com/miyuying/ownblog/issues/1)
+- 2017-07-28 **»** [redux源码分析与设计思路剖析](https://github.com/wisestcoder/blog/issues/1)
 
 - 2017-07-31 **»** [PureRenderMixin](https://github.com/miyuying/ownblog/blob/master/react/pureRenderMixin.md)
 
@@ -93,7 +93,7 @@
 - 2018-05-10 **»** [极简react-router实现](https://github.com/youngwind/blog/issues/109)
 
 ### webpack
-- 2017-09-13 **»** [webpack性能优化](https://github.com/miyuying/ownblog/issues/2)
+- 2017-09-13 **»** [webpack性能优化](https://github.com/wisestcoder/blog/issues/2)
 
 - 2017-12-20 **»** [webpack知识点详解](https://github.com/miyuying/ownblog/blob/master/webpack/introduction.md)
 
@@ -136,7 +136,7 @@
 
 - 2018-03-28 **»** [docschina框架中文文档](https://docschina.org/)
 
-- 2018-03-30 **»** [网络安全](https://github.com/miyuying/ownblog/issues/3)
+- 2018-03-30 **»** [网络安全](https://github.com/wisestcoder/blog/issues/3)
 
 
 ##
