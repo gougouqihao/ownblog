@@ -140,7 +140,9 @@
 
 - 2018-03-30 **»** [网络安全](https://github.com/wisestcoder/blog/issues/3)
 
-- 2019-10-01 **»** [网络安全](https://github.com/miyuying/ownblog/blob/master/js/debounce.md)
+- 2019-08-11 **»** [防抖事件 和 节流事件](https://github.com/miyuying/ownblog/blob/master/js/debounce.md)
+
+- 2019-10-01 **»** [JavaScript专题之数组去重](https://github.com/miyuying/ownblog/blob/master/js/unique.md)
 
 ##
 **清空你的杯子，方能再行注满，空无以求全。**
