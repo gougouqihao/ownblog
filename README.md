@@ -144,5 +144,7 @@
 
 - 2019-10-01 **»** [JavaScript专题之数组去重](https://github.com/miyuying/ownblog/blob/master/js/unique.md)
 
+- 2019-12-01 **»** [幼升小汪锦心简历](https://github.com/miyuying/ownblog/blob/master/js/resume.md)
+
 ##
 **清空你的杯子，方能再行注满，空无以求全。**
